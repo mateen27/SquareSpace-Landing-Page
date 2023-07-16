@@ -1,2 +1,2 @@
 # Screenshot
-https://github.com/mateen27/GreenSock/assets/136830885/d5820d04-b592-45d7-8635-20eae62604a7
+https://github.com/mateen27/SquareSpace-Landing-Page/assets/136830885/6f50b2d4-ae58-42e5-a689-16dc56755556
